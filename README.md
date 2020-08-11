@@ -56,9 +56,6 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 </div></td></tr></table>  
 
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://twitter.com/lucasdiedrich" target="_blank">
