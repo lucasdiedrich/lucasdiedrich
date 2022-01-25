@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Lucas Diedrich, a IT Ops made by life 🏙️ and full-stack freelance developer by choice 👨‍💻</div>    
 
-- 🌱 I’m currently learning VueJS and Azure  
+- 🌱 I’m currently learning AWS, REACT and OCI
   
 
 - ❓ Ask me about anything related to docker or DevOps  
